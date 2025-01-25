@@ -8,7 +8,7 @@ D --> G{No} --> H{Skip milk/cream}
 E --> F --> I{Pay}
 G --> H --> I
 I --> J{Enjoy coffee}
-```mermaid
+
 
 
 The flowchart entities are:
