@@ -9,7 +9,7 @@ E --> F --> I{Pay}
 G --> H --> I
 I --> J{Enjoy coffee}
 
-```mermaid
+
 **6. Implement the Diagram:**
 
 The flowchart entities are:
