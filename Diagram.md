@@ -40,9 +40,3 @@ Here's a brief description of each entity and relationship:
   - **Pay:** The customer pays for their coffee.
   - **Enjoy coffee:** The customer enjoys their coffee.
 
-**8. Submission:**
-
-- Commit and push your changes to your GitHub repository.
-- Submit the link to your `Diagram.md` file in Blackboard.
-
-This is a basic example of how to create a flowchart with Mermaid syntax. You can create more complex diagrams by adding more entities, relationships, and conditional statements.
