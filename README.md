@@ -23,6 +23,6 @@ I am a huge wrestling fan
 
 Here, you can list websites you find interesting and provide a brief explanation for why you recommend them. 
 
-- [Stean](https://www.steam.com) - Steam is essential for games to download if you dont want to use the original website
+- [Steam](https://www.steam.com) - Steam is essential for games to download if you dont want to use the original website
 - [ESPN](https://www.espn.com) -I use ESPN to watch all my college wrestling and some pro stuff
 
